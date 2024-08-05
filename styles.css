@@ -9,6 +9,7 @@ div {
     display: flex;
     width: 800px;
     height: 800px;
+    color: blue;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
